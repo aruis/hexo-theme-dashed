@@ -10,7 +10,7 @@ A simple theme for Hexo.
 
 ```bash
 cd path/to/hexo/blog
-git clone https://github.com/sunnybyeon/hexo-theme-dashed themes/dashed
+git clone https://github.com/aruis/hexo-theme-dashed.git themes/dashed
 cd themes/dashed
 npm install
 ```
